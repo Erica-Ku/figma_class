@@ -1,0 +1,120 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.menubt-ufc {
+  width: 100%;
+  height: 8.3rem;
+  position: relative;
+}
+.menubt-ufc .rectangle-2-3mp {
+  width: 144rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  background-color: #ffd0a5;
+}
+.menubt-ufc .menu-yvN {
+  width: 7.2rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 20.8rem;
+  top: 2.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menubt-ufc .new-t1k {
+  width: 5.6rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 53.3rem;
+  top: 2.9rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menubt-ufc .sale-PjC {
+  width: 6rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 68.8rem;
+  top: 2.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menubt-ufc .best-7QJ {
+  width: 6.1rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 37.1rem;
+  top: 2.9rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menubt-ufc .all-QuC {
+  width: 4.4rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 85.8rem;
+  top: 2.9rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menubt-ufc .my-Xiv {
+  width: 3.8rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 102rem;
+  top: 2.9rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.menubt-ufc .more-qjc {
+  width: 7rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 116.2273rem;
+  top: 2.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}

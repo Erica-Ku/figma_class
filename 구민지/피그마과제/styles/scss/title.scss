@@ -1,0 +1,66 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.title-P2N {
+  background-color: #ffffff;
+  box-sizing: border-box;
+  padding: 1.7rem 18.6rem 1.6rem 18.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+
+  .menu-1-W6z {
+    margin: 0rem 2.9rem 0.1rem 0rem;
+    width: 3.6rem;
+    height: 2.4rem;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+  }
+  .shoppingbag-1-1pS {
+    flex-shrink: 0;
+    margin: 0rem 24.8rem 0.1rem 0rem;
+    width: 3.2rem;
+    height: 4rem;
+    object-fit: contain;
+    vertical-align: top;
+  }
+  .group-1-YZU {
+    color: #ffffff;
+    align-items: center;
+    font-size: 4rem;
+    font-weight: 700;
+    display: flex;
+    flex-shrink: 0;
+    background-color: #000000;
+    margin-right: 30.9rem;
+    width: 37.9rem;
+    height: 7.5rem;
+    line-height: 0.675;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+    justify-content: center;
+    border-radius: 5rem;
+  }
+  .search-1-1xr {
+    height: 3.6rem;
+    object-fit: contain;
+    vertical-align: top;
+    flex-shrink: 0;
+    margin-bottom: 0.11rem;
+    width: 3.6rem;
+  }
+}

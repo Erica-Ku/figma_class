@@ -1,0 +1,454 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-2-Ghk {
+  box-sizing: border-box;
+  padding-bottom: 7.9rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.desktop-2-Ghk .title-ohg {
+  box-sizing: border-box;
+  padding: 1.7rem 18.6rem 1.6rem 18.5rem;
+  width: 100%;
+  height: 10.8rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.desktop-2-Ghk .title-ohg .menu-1-KR8 {
+  margin: 0rem 2.9rem 0.1rem 0rem;
+  width: 3.6rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-2-Ghk .title-ohg .shoppingbag-1-3c2 {
+  margin: 0rem 24.8rem 0.1rem 0rem;
+  width: 3.2rem;
+  height: 4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-2-Ghk .title-ohg .group-1-BTL {
+  margin-right: 30.9rem;
+  width: 37.9rem;
+  height: 100%;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 0.675;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000000;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.desktop-2-Ghk .title-ohg .search-1-FCJ {
+  margin-bottom: 0.11rem;
+  width: 3.6rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-2-Ghk .auto-group-5gl6-b1G {
+  width: 100%;
+  height: 38.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-2-Ghk .auto-group-5gl6-b1G .mask-group-jtA {
+  width: 111rem;
+  height: 30.1rem;
+  position: absolute;
+  left: 16.5rem;
+  top: 8.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-2-Ghk .auto-group-5gl6-b1G .menubt-sDg {
+  width: 144rem;
+  height: 8.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.desktop-2-Ghk .auto-group-5gl6-b1G .menubt-sDg .rectangle-2-D2e {
+  width: 144rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  background-color: #ffd0a5;
+}
+.desktop-2-Ghk .auto-group-5gl6-b1G .menubt-sDg .menu-Yqc {
+  width: 7.2rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 20.8rem;
+  top: 2.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-Ghk .auto-group-5gl6-b1G .menubt-sDg .new-rrJ {
+  width: 5.6rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 53.3rem;
+  top: 2.9rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-Ghk .auto-group-5gl6-b1G .menubt-sDg .sale-Bdg {
+  width: 6rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 68.8rem;
+  top: 2.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-Ghk .auto-group-5gl6-b1G .menubt-sDg .best-Hgi {
+  width: 6.1rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 37.1rem;
+  top: 2.9rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-Ghk .auto-group-5gl6-b1G .menubt-sDg .all-1ci {
+  width: 4.4rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 85.8rem;
+  top: 2.9rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-Ghk .auto-group-5gl6-b1G .menubt-sDg .my-Y6r {
+  width: 3.8rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 102rem;
+  top: 2.9rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-Ghk .auto-group-5gl6-b1G .menubt-sDg .more-Sxv {
+  width: 7rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 116.2273rem;
+  top: 2.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-2-Ghk .group-15-AP8 {
+  margin-left: 16.6rem;
+  width: 28.6rem;
+  height: 7.6rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 0.675;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.desktop-2-Ghk .bt-T7L {
+  margin-bottom: 4.7rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-2-Ghk .bt-T7L .auto-group-bxts-Cai {
+  box-sizing: border-box;
+  padding: 1.3rem 70.8rem 1.4rem 19.9rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ffd0a5;
+  flex-shrink: 0;
+}
+.desktop-2-Ghk .bt-T7L .auto-group-bxts-Cai .item--w2W {
+  margin-right: 10.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-Ghk .bt-T7L .auto-group-bxts-Cai .item--3bL {
+  margin-right: 10.1rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-Ghk .bt-T7L .auto-group-bxts-Cai .item--yUz {
+  margin-right: 11.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-Ghk .bt-T7L .auto-group-bxts-Cai .item--6Ji {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-Ghk .bt-T7L .auto-group-ko5g-oU2 {
+  box-sizing: border-box;
+  padding: 1.3rem 24.2rem 1.4rem 22.1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #fce9d8;
+  flex-shrink: 0;
+}
+.desktop-2-Ghk .bt-T7L .auto-group-ko5g-oU2 .item--Xev {
+  margin-right: 12.7rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-Ghk .bt-T7L .auto-group-ko5g-oU2 .item--3tA {
+  margin-right: 12.4rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-Ghk .bt-T7L .auto-group-ko5g-oU2 .item--mpA {
+  margin-right: 12.4rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-Ghk .bt-T7L .auto-group-ko5g-oU2 .item--6bY {
+  margin-right: 12.4rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-Ghk .bt-T7L .auto-group-ko5g-oU2 .item--dbU {
+  margin-right: 12.4rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-Ghk .bt-T7L .auto-group-ko5g-oU2 .item--NJA {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-Ghk .frame-2-6jx {
+  margin: 0 21.1rem;
+  width: calc(100% - 42.2rem);
+  height: 22.3rem;
+  display: flex;
+  column-gap: 9.5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-2-Ghk .frame-2-6jx .group-26-qBk {
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-2-Ghk .frame-2-6jx .group-26-qBk .mask-group-nMt {
+  width: 27.6rem;
+  height: 16.9rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-2-Ghk .frame-2-6jx .group-26-qBk .group-11-XKU {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-2-Ghk .frame-2-6jx .group-26-qBk .group-11-XKU .item--VXC {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-Ghk .frame-2-6jx .group-26-qBk .group-11-XKU .item-19000-p3g {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-Ghk .frame-2-6jx .group-27-we6 {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-2-Ghk .frame-2-6jx .group-27-we6 .mask-group-72n {
+  width: 27.6rem;
+  height: 16.9rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-2-Ghk .frame-2-6jx .group-27-we6 .item--TMY {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-Ghk .frame-2-6jx .group-27-we6 .item-22000-ZfU {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-Ghk .frame-2-6jx .group-29-6vJ {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-2-Ghk .frame-2-6jx .group-29-6vJ .mask-group-UGe {
+  width: 27.6rem;
+  height: 16.9rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-2-Ghk .frame-2-6jx .group-29-6vJ .group-28-prJ {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-2-Ghk .frame-2-6jx .group-29-6vJ .group-28-prJ .item--CCe {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-2-Ghk .frame-2-6jx .group-29-6vJ .group-28-prJ .item-14000-7aW {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
